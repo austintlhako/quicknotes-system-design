@@ -23,10 +23,7 @@ QuickNotes is designed to be a lightweight, high-performance note-taking applica
 
     ├── index.html               # Main application interface and DOM structure
     ├── style.css                # Application styling and theme variables
-    ├── script.js                # Draft editor logic, counters, and theme toggling
-    ├── api.js                   # Async API client for note management
-    ├── users.js                 # Async user fetching and filtering logic
-    ├── school.sql               # Additional SQL schema and querying practice
+    ├── api.js                   # Draft editor logic, counters, and theme toggling
     └── docs/
         ├── api-design.md        # RESTful API specifications and error handling
         ├── data-model.md        # Database schema, entities, and SQL/NoSQL trade-offs
